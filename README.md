@@ -15,7 +15,7 @@ I'm a penultimate Computer Science and Finance student at UNSW, passionate about
 ## 📈 A Bit More About Me
 - 💼 **VP of Internals** at [UNSW DevSoc](https://www.linkedin.com/company/devsoc-unsw/), overwatching the Human Resources and Training Programs team, and team culture for 250+ members
 - 💼 Former **Marketing Director** at [UNSW DevSoc](https://www.linkedin.com/company/devsoc-unsw/)
-- 👨‍🏫 Private & institutional **Math Tutor** with a passion for education equity
+- 👨‍🏫 Private **Math Tutor** with a passion for education
 
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mark-quach-4570362a0/)
