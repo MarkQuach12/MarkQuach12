@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mark
 
-I'm a penultimate Computer Science and Finance student at UNSW, passionate about software development and education. Beyond that, I enjoy travelling ✈️ and exploring new places, as well as photograpy 📷 
+I'm a penultimate Computer Science and Finance student at UNSW, passionate about software development and education. Beyond that, I enjoy travelling ✈️ and exploring new places, as well as photography 📷 
 
 
 ## 🛠 Tech Stack
